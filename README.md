@@ -7,5 +7,7 @@
 </div>
 <br/>
 
-- Currently working on [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) and [Solidity](https://solidity-es.readthedocs.io/es/latest/).
+[![wakatime](https://wakatime.com/badge/user/988e959c-3387-4cb6-b8ac-b4e3a2cab3e2.svg)](https://wakatime.com/@988e959c-3387-4cb6-b8ac-b4e3a2cab3e2 "Since Aug 26 2021")
+
+- Currently working on [TypeScript](https://www.typescriptlang.org) and [Solidity](https://solidity-es.readthedocs.io/es/latest/).
 - currently learning [IPFS](https://ipfs.io) DApps.
