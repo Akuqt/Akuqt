@@ -17,3 +17,6 @@
 
 - Currently working on [TypeScript](https://www.typescriptlang.org) and [Solidity](https://solidity-es.readthedocs.io/es/latest/).
 - currently learning [IPFS](https://ipfs.io) DApps.
+
+
+![](https://hit.yhype.me/github/profile?user_id=59491697)
