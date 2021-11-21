@@ -1,8 +1,7 @@
 <h3 align="left">Hello, I'm Italo Alfaro, Electronic Engineer and 22 years old Developer <.<</h3>
 <br/>
 <div align= "left">
-    <img src="https://api.aku-mi.xyz/stats/totals" />
-    <img src="https://api.aku-mi.xyz/stats/languages"/>
+    <img src="https://api.aku-mi.xyz/stats/langs"/>
 </div>
 <br/>
 
