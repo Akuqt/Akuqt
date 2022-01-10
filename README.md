@@ -1,7 +1,7 @@
 <h3 align="left">Hello, I'm Italo Alfaro, Electronic Engineer and 22 years old Developer <.<</h3>
 <br/>
 <div align= "left">
-    <img src="https://my-code-stats.herokuapp.com/langs/5.0"/>
+    <img src="https://my-code-stats.herokuapp.com/langs/5"/>
 </div>
 <br/>
 
