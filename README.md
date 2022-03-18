@@ -6,6 +6,6 @@
 <br/>
 
 - Currently working with [TypeScript](https://www.typescriptlang.org).
-- currently learning [IPFS](https://ipfs.io) DApps.
+- Currently learning Networking.
 
 ![](https://hit.yhype.me/github/profile?user_id=59491697)
