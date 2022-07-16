@@ -1,9 +1,9 @@
 <h3 align="left">Hello, I'm Italo Alfaro</h3>
-<h3 align="left">Electronics and Networking Engineer and sometimes software Developer <.<</h3>
+<h3 align="left">Electronics and Networking Engineer and sometimes Software Developer <.<</h3>
 
 <br/>
 <div align= "left">
-    <img src="https://my-code-stats.herokuapp.com/langs/5.0"/>
+    <img src="https://my-code-stats.herokuapp.com/langs/5"/>
 </div>
 <br/>
 
