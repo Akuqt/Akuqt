@@ -3,7 +3,7 @@
 
 <br/>
 <div align= "left">
-    <img src="https://my-code-stats.herokuapp.com/langs/5"/>
+    <img src="https://my-code-stats.herokuapp.com/langs/5.0"/>
 </div>
 <br/>
 
