@@ -1,4 +1,4 @@
-<h3 align="left">Electronics and Networking Engineer, sometimes Software Developer <.<</h3>
+<h3 align="left">Electronics and Network Security Engineer, sometimes Software Developer <.<</h3>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuqt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Description" width="300" aling="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Description" width="180" aling="right">
