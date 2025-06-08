@@ -8,7 +8,5 @@
 
 - Currently working with [TypeScript](https://www.typescriptlang.org)
     
-  
-- Currently working on [Tenarix](https://github.com/tenarixorg/tenarix) (Paused)
 
 ![](https://hit.yhype.me/github/profile?user_id=59491697)
