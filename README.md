@@ -10,6 +10,6 @@
 ░░░░░   ░░░░░ ░░░░ ░░░░░   ░░░░░░░░ 
 
 
-Cisco & Palo Alto → Firewall Expert                             ⇄                            TypeScript Lover ♡
+Palo Alto Networks → Products : Expert                             ⇄                            TypeScript Lover ♡
  
 ```
